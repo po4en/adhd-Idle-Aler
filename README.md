@@ -19,4 +19,4 @@ Small Windows tool that plays a beep sound when user is idle for too long.
 
 ## Build EXE (optional)
 
-buymeacoffee.com/po4en
+## 🍵buymeacoffee.com/po4en 🍵
