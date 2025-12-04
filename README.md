@@ -1,4 +1,3 @@
-```markdown
 # adhd-Idle-Aler
 Small Windows tool that plays a beep sound when user is idle for too long.
 
@@ -23,16 +22,11 @@ Small Windows tool that plays a beep sound when user is idle for too long.
 **Option 1 (easiest):** Right-click `IdleAlert.ps1` → "Run with PowerShell"
 
 **Option 2:** Open PowerShell, navigate to folder and run:
-```
 .\IdleAlert.ps1
-```
 
 If you get execution policy error, run once:
-```
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
-```
 
 ## Support
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow.svg)](https://buymeacoffee.com/po4en)
-```
