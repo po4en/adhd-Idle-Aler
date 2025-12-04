@@ -22,10 +22,14 @@ Small Windows tool that plays a beep sound when user is idle for too long.
 **Option 1 (easiest):** Right-click `IdleAlert.ps1` → "Run with PowerShell"
 
 **Option 2:** Open PowerShell, navigate to folder and run:
+```powershell
 .\IdleAlert.ps1
+```
 
 If you get execution policy error, run once:
+```powershell
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
 
 ## Support
 
