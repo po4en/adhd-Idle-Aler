@@ -1,7 +1,7 @@
 # adhd-Idle-Aler
 Small Windows tool that plays a beep sound when user is idle for too long.
 
-<img width="450" height="217" alt="image" src="https://github.com/user-attachments/assets/14b1b63c-b59c-4249-ab3d-87ab558ab704" />
+<img width="450" height="217" alt="adhd-Idle-Aler" src="https://github.com/user-attachments/assets/14b1b63c-b59c-4249-ab3d-87ab558ab704" />
 
 ## Features
 
