@@ -17,5 +17,4 @@ Small Windows tool that plays a beep sound when user is idle for too long.
    - **Repeat every** – how often to repeat the alert (0 = only once).
 4. Click **Start** to begin monitoring, **Stop** to stop.
 
-## ☕ Support
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow.svg)](https://buymeacoffee.com/po4en)
